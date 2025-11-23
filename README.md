@@ -16,6 +16,7 @@ Features :
 - [ ] Metadata preservation
 - [ ] Add-on support
 - [ ] Remote usage
+
 Support :
 - [ ] HTTPS and HTTP
 - [ ] SFTP and FTP
