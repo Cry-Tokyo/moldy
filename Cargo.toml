@@ -2,5 +2,8 @@
 name = "moldy"
 version = "0.1.0"
 edition = "2024"
+description = "Download Manager Library"
+repository = "https://github.com/Cry-Tokyo/moldy"
+license = "MIT"
 
 [dependencies]
